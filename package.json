@@ -1,0 +1,30 @@
+{
+  "name": "automatizandotarefasgulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorV9/automatizando-tarefas-gulp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VitorV9/automatizando-tarefas-gulp/issues"
+  },
+  "homepage": "https://github.com/VitorV9/automatizando-tarefas-gulp#readme",
+  "dependencies": {
+    "gulp": "^5.0.1"
+  },
+  "devDependencies": {
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^6.0.1",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.102.0"
+  }
+}
